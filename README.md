@@ -43,7 +43,7 @@ High attrition can result in increased recruitment costs and reduced productivit
 
 ## 📷 Preview
 
-![HR Dashboard Screenshot](your-screenshot-link-here.png)
+![HR Dashboard Screenshot](HR-Attrition-Dashboard-screenshot.png)
 
 ---
 
