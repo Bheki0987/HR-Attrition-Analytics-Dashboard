@@ -1,4 +1,4 @@
-# 📊 HR Attrition Analytics Dashboard – Excel Project
+# 📊 Employee Attrition Analytics Dashboard – Excel Project
 
 This project presents a professional **HR Analytics Dashboard** built using Microsoft Excel. It analyzes employee attrition using the IBM HR Analytics dataset and delivers **interactive insights** for decision-making.
 
